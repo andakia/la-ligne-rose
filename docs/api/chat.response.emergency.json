@@ -1,0 +1,6 @@
+{
+  "reply": "Ceci ressemble à une urgence. Je vous passe une professionnelle de santé.",
+  "language": "fr",
+  "handoff": { "requested": true, "reason": "emergency" },
+  "safety": { "emergency": true }
+}

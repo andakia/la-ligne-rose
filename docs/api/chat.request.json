@@ -1,0 +1,10 @@
+{
+  "session_id": "call-7f3a9c21",
+  "language": "wo",
+  "messages": [
+    { "role": "user", "content": "Am naa laaj ci sama wér-gi-yaram." },
+    { "role": "assistant", "content": "Waaw, laajal, maa ngi lay déglu." },
+    { "role": "user", "content": "Dama bëgg wax ak ab fajkat." }
+  ],
+  "context": { "channel": "phone", "service": "la-ligne-rose", "turn": 2 }
+}
